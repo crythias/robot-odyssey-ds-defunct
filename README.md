@@ -1,3 +1,9 @@
+**************************
+*** DEFUNCT 05-11-2014 ***
+**************************
+This package has been replaced by the other package, properly forked from original source.
+
+
 robot-odyssey-ds
 ================
 
